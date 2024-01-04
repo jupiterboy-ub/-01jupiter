@@ -1,5 +1,4 @@
 # -01jupiter
-Trying 
 #include <stdio.h>
 #include <conio.h>
 int main()
