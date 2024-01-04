@@ -6,3 +6,4 @@ int main()
 {
 printf("hello from Jupiter");
 }
+return 0;
